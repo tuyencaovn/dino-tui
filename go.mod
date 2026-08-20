@@ -1,4 +1,4 @@
-module dino-tui
+module github.com/tuyencaovn/dino-tui
 
 go 1.26.5
 

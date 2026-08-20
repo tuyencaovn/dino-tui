@@ -1,5 +1,4 @@
-dino-tui-bin
-dino-*
-!dino-tui.go
-build/
-dist/
+# binaries (make build / make release)
+dino-tui
+dino-tui-macos-*
+dino-tui-linux-*
