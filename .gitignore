@@ -1,0 +1,5 @@
+dino-tui-bin
+dino-*
+!dino-tui.go
+build/
+dist/

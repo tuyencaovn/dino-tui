@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "start": "deno run src/main.ts",
+    "check": "deno check src/main.ts",
+    "test": "deno test"
+  },
+  "compilerOptions": {
+    "strict": true
+  }
+}
